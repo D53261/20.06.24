@@ -1,0 +1,5 @@
+Gestão de projetos é uma área de administração de empresas que tem como objetivo gerenciar e organizar conhecimentos, habilidades e recursos necessários para a conclusão de um projeto, envolvendo nessa análise tambem os custos para a produção e o prazo a ser entregue, tendo a utilidade de simplificar e tentar deixar com o mínimo ou com nenhum erro, visando uma conclusão do projeto mais rápida e eficiênte.
+A gestão de projetos funciona a partir de 3 pilares principais:
+Organização e definição: manuzeiam e organizam grupos e as funções de cada um, estabelecimentos de prazos e metas, alem de organização de custos
+Planejamento: define os cronogramas de ações para cada um e planejamento de etapas, alem do desenvolvimento de planos de gestão de riscos
+Gerenciamento: monitora os projetos e seu desenvolvimento até a sua conclusão, alem de promover medidas corretivas se necessário
